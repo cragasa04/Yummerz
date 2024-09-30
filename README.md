@@ -1,2 +1,2 @@
 # Yummerz
-App to help decide where to eat for indecisive people 
+Website to help decide where to eat for those who struggle to decide
